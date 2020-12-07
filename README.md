@@ -15,4 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm currently a CS Student at [University of Economics in Katowice](https://www.ue.katowice.pl/no_cache/en.html)  
+I am currently a CS Student at [University of Economics in Katowice](https://www.ue.katowice.pl/no_cache/en.html)  
+
+So far, I have been experimenting and learning different languages and technologies to see what I like the most.
+
+I used to create simple games using C++ with SDL 2, but recently I started learning to use Python with Pygame Zero, as well as how to create desktop aps using QT's qml. 
+
+How to contact:
+- Email - [michal.racki98@gmail.com](mailto:michal.racki98@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/michał-racki-b24038201)  
